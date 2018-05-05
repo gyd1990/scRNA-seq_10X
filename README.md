@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chinese Version of the Book *Data Analysis for the Life Sciences*
 
 Link for original book:
@@ -46,3 +47,7 @@ git push origin master
 __Currently if you're not a collaborator and want to contribute. Please send me an email at xie186 at purdue.edu.__
 
 
+=======
+# scRNA-seq_10X
+10X 单细胞册数数据分析手册
+>>>>>>> e576623017b2f6494b19bc629b0ab61b2d2237f1
